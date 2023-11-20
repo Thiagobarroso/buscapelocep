@@ -28,7 +28,6 @@ Este projeto utiliza a API ViaCEP para obter informações detalhadas de endere�
 ## Capturas de Tela
 
 ![Image](https://github.com/Thiagobarroso/buscapelocep/blob/main/imagem1.png)
-![Image](https://github.com/Thiagobarroso/buscapelocep/blob/main/imagem2.png)
 
 ## API ViaCEP
 Este projeto utiliza a API ViaCEP para obter informações de endereços.
