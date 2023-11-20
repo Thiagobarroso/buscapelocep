@@ -27,7 +27,7 @@ Este projeto utiliza a API ViaCEP para obter informações detalhadas de endere�
 
 ## Capturas de Tela
 
-![Imagem 1](caminho/para/imagem1.png](https://github.com/Thiagobarroso/buscapelocep/blob/main/imagem1.png)
+![Image](https://github.com/Thiagobarroso/buscapelocep/blob/main/imagem1.png)
 ![Imagem 2](caminho/para/imagem2.png)
 
 ## API ViaCEP
