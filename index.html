@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buscar Endereço</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <!--font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--Icons-->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <span class="material-symbols-outlined"> map </span>
+
+      <form id="buscaCep">
+        <input type="text" id="cep" placeholder="00000-000" />
+        <input type="button" value="Encontrar" id="btnBuscarCep" />
+      </form>
+
+      <div id="resultadoCep">
+        <p id="conteudo"></p>
+      </div>
+    </div>
+
+    <script src="/main.js"></script>
+  </body>
+</html>
